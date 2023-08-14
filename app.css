@@ -142,15 +142,16 @@
         padding: 1rem;
     }        
  }
-@media(max-width:600px) {
+@media(max-width:512px){
     .contenedorDimensionPantalla{
         padding: 2rem;
         background-color: bisque;
         width:25rem;
         height:12rem ;
-        margin: 3rem 7rem;
+        margin: 2rem 3.5rem;
         outline: 1px ridge black;
     }
+
     .encabezadoDimensionPantalla{
         background-color:greenyellow;
         padding: .5rem;

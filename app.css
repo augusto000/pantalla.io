@@ -142,7 +142,7 @@
         padding: 1rem;
     }        
  }
-@media(max-width:456px){
+@media(max-width:433px){
     .contenedorDimensionPantalla{
         padding: 2rem;
         background-color: bisque;
